@@ -2,3 +2,7 @@
 Web/whyChat/.gradle
 Web/whyChat/.idea
 Web/whyChat/build
+App/whyChat/.gradle
+App/whyChat/.idea
+App/whyChat/build
+APP/whyChat/gradlew
